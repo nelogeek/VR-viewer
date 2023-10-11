@@ -17,3 +17,8 @@ If you have any questions or suggestions, please contact us at lokotaevpr@gmail.
 Thank you for choosing our project!
 
 Happy VR viewing!
+
+<div id="header" align="center">
+  <img src="https://github.com/nelogeek/VR-viewer/blob/master/its-so-real-its-real.gif" width="50%"/>
+</div>
+
